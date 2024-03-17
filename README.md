@@ -1,6 +1,6 @@
 ## Transmission Control Protocol (TCP)
 
-Transmission Control Protocol (TCP) adalah metode berbasis aliran (stream) pada komunikasi jaringan. Modul ini membahas TCP stream dan bagaimana implementasinya pada Java. Berbeda dengan UDP, TCP menjamin data terkirim dan berurutan, menyediakan aliran komunikasi byte antara client dan server yang mendukung komunikasi dua arah. TCP menggunakan Internet Protocol (IP) untuk membuat koneksi antar mesin.
+Transmission Control Protocol (TCP) adalah metode berbasis aliran (stream) pada komunikasi jaringan. Berbeda dengan UDP, TCP menjamin data terkirim dan berurutan, menyediakan aliran komunikasi byte antara client dan server yang mendukung komunikasi dua arah. TCP menggunakan Internet Protocol (IP) untuk membuat koneksi antar mesin.
 
 ## Socket Pada TCP
 
